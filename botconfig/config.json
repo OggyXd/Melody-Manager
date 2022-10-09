@@ -1,17 +1,17 @@
 {
-    "token": "GET from: https://discord.com/developers/applications",
-    "prefix": "//",
+    "token": "MTAyODU5MTE1OTYwNzU2MjMzMA.GqteLY.GNuCnpwWHX95k095fumNjVjeES8wEgKnAGPkV8",
+    "prefix": ",",
     "ownerIDS": [
-        "442355791412854784"
+        "872073183560347669"
     ],
     "fnbr": "GET from: https://fnbr.co",
     "fortnitetracker": "GET from: https://fortnitetracker.com",
-    "memer_api": "GET from: https://discord.gg/Mc2FudJkgP",
+    "memer_api": "GET from: https://discord.gg/Mc2FukgP",
     "status": {
-        "text": "{prefix}help | on {guildcount} Servers, with {membercount} Members | Played: {songsplayed} Songs",
-        "text2": "By: discord.gg/dcdev",
+        "text": ",help | on {guildcount} Servers, with {membercount} Members",
+        "text2": "By: discord.gg/melody",
         "type": "PLAYING",
-        "url": "https://twitch.tv/milratodiscordbot"
+        "url": "https://twitch.tv/melodydiscordbot"
     },
     "clientsettings": {
         "nodes": [
@@ -23,8 +23,8 @@
         ]
     },
     "spotify": {
-        "clientSecret": "GET from: https://developers.spotify.com",
-        "clientID": "GET from: https://developers.spotify.com"
+        "clientSecret": "Awy-9zhWn2jiK7f52Wm_0Rjstjyc3uSx",
+        "clientID": "1028591159607562330"
     },
     "settings": {
         "COMMENT": "time_delay 0 === insta leave",
